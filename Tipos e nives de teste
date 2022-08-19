@@ -1,0 +1,18 @@
+Existem alguns "procedimentos"  para isso que são os testes de  usabilidade, integração, performance, carga e estresse, estabilidade, regressão e segurança.
+
+Tendo como um dos primeiros testes o teste de usabilidade consiste em a verificação da facilidade e usabilidade do software.  O teste de integração de software basea se 
+na junção  e combinação dos modulos vindo após o teste unitário que testa todas as funções individualmente,os próximos testes são responsáveis pela estábilidade do software
+ em alta performance ou seja o comportamento do software em possiveis situações de estresse. E o ultimo teste é chamado de regressão,que é a  correção de erros e certificar 
+ de que os erros encontrados como bugs e vulnerabilidades sejam corrigidos e não surgam novamente na nova correção e consequentemente  verificar que as recentes correções de 
+ erros não prejudicaram as funcionalidades antigas.
+
+ Niveis de testes
+1. Caixa Branca
+
+2. Caixa Preta
+
+3. Caixa Cinza
+
+4. Regressão
+
+5. Testes não funcionais

@@ -1,0 +1,4 @@
+Teste de Caixa Preta:
+faz referência a testes realizados na interface do software, com pouca preocupação em relação à estrutura lógica interna do software.
+Teste de Caixa branca:
+Um exame rigoroso do detalhe procedimental, os caminhos lógicos e as colaborações entre componentes são testados exercitando conjuntos específicos de condições e/ou ciclos.

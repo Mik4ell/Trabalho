@@ -1,0 +1,18 @@
+O gerenciamento de defeitos envolve o estabelecimento de um processo para prevenir defeitos e minimizar os riscos do projeto. Uma maneira de atingir esse objetivo é usar ferramentas automatizadas para coletar informações tanto
+ da equipe de desenvolvimento quanto da equipe de teste. Isso tornaria mais fácil para as equipes de desenvolvimento em testes para qur trabalharem juntas e compartilharem dados comuns. O gerenciamento de defeitos também fornece aos gerentes 
+de projeto métricas e relatórios para ajudar a promover a melhoria contínua im dos melhores regras para gerir essa situação é com a metodologia 10 Myers. Que consiste em 10 regras  pois sua ideia 
+posteriormente em um projeto, é que custa mais para corrigir o problema do que se ele fosse encontrado no início do processo. Isso se
+ deve ao aumento do custo após descobertas posteriores.
+
+10 MAYERS 
+
+1. É necessário em cada caso de teste definir a saída esperada.
+2. O programador deve evitar testar o seu prórpio programa.
+3. Os programadores não deve testar seus próprios programas.
+4. Verificar os resultados de cada teste.
+5. É necessário criar casos de testes para entradas válidas e esperados e também para entradas inválidas e inesperadas.
+6. Verificar se um programa faz o que deve fazer e também verificar se está fazendo o que não deve fazer.
+7. Evite prolongar casos de teste a menos que o programa seja realmente um programa extenso.
+8.Não se detenha a uma seção que seja irrelevante, fazendo uma grande quantidade de testes, onde provavelmente nenhum erro será encontrado.
+9. A probabilidade de existir mais erros em uma seção é proporcional ao número de erros já encontrados.
+10. TESTE É UMA TAREFA EXTREMAMENTE CRIATIVA E DESAFIANTE.
